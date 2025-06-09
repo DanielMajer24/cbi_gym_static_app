@@ -1,0 +1,1 @@
+# cbi_gym_static_app
